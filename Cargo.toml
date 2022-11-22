@@ -1,0 +1,69 @@
+[package]
+name = "advent-of-code"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[[bin]]
+name = "day1"
+
+[[bin]]
+name = "day2"
+
+[[bin]]
+name = "day3"
+
+[[bin]]
+name = "day4"
+
+[[bin]]
+name = "day5"
+
+[[bin]]
+name = "day6"
+
+[[bin]]
+name = "day7"
+
+[[bin]]
+name = "day8"
+
+[[bin]]
+name = "day9"
+
+[[bin]]
+name = "day10"
+
+[[bin]]
+name = "day11"
+
+[[bin]]
+name = "day12"
+
+[[bin]]
+name = "day13"
+
+[[bin]]
+name = "day14"
+
+[[bin]]
+name = "day15"
+
+[[bin]]
+name = "day16"
+
+[[bin]]
+name = "day17"
+
+[[bin]]
+name = "day18"
+
+[[bin]]
+name = "day19"
+
+[dependencies]
+itertools = "0.10"
+bitvec = "1"
+arrayvec = "0.7"
+petgraph = "0.6"
+nalgebra = "0.31"
